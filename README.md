@@ -1,1 +1,1 @@
-# project1
+# Kitten Carousel Static Website
